@@ -1,0 +1,16 @@
+﻿  ControllerLogic.cpp
+  Filter.cpp
+d:\projects\c++\vs\photoshiplightvs\worlplease\worlplease\photo.h(15): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+d:\projects\c++\vs\photoshiplightvs\worlplease\worlplease\photo.h(16): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+  Photo.cpp
+d:\projects\c++\vs\photoshiplightvs\worlplease\worlplease\photo.h(15): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+d:\projects\c++\vs\photoshiplightvs\worlplease\worlplease\photo.h(16): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+d:\projects\c++\vs\photoshiplightvs\worlplease\worlplease\photo.cpp(58): warning C4267: 'argument': conversion from 'size_t' to 'sf::Uint8', possible loss of data
+  ViewController.cpp
+d:\projects\c++\vs\photoshiplightvs\worlplease\worlplease\photo.h(15): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+d:\projects\c++\vs\photoshiplightvs\worlplease\worlplease\photo.h(16): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+  WORLPLEASE.cpp
+d:\projects\c++\vs\photoshiplightvs\worlplease\worlplease\photo.h(15): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+d:\projects\c++\vs\photoshiplightvs\worlplease\worlplease\photo.h(16): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  WORLPLEASE.vcxproj -> D:\Projects\C++\VS\PhotoshipLightVS\WORLPLEASE\x64\Debug\WORLPLEASE.exe
